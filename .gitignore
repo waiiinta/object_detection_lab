@@ -1,3 +1,10 @@
 .idea
 __pycache__
 weights/faster_rcnn.h5
+annotations/captions_train2017.json
+annotations/captions_val2017.json
+annotations/instances_train2017.json
+annotations/instances_val2017.json
+*.json
+*.jpg
+*.zip
